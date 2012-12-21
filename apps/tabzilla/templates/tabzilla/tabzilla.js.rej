@@ -1,0 +1,11 @@
+--- a/media/js/tabzilla.js
++++ b/media/js/tabzilla.js
+@@ -537,7 +543,7 @@
+     + '    <div class="snippet" id="tabzilla-promo-social">'
+     + '    <a href="http://www.facebook.com/fxmessenger">'
+     + '     <h4>Facebook Messenger for Firefox</h4>'
+-    + '     <p>Visit Facebook to turn it on »</p>'
++    + '     <p>Visit Facebook to turn it on »</p>'
+     + '    </a>'
+     + '    </div>'
+     + '  </div>'
